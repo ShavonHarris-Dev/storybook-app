@@ -1,5 +1,5 @@
 ## FullStack: StoryBook
-<!-- <a href="https://storybookfullstack.herokuapp.com/" target="_blank">StoryBook</a> -->
+<a href="#" target="_blank">StoryBook</a>
 <a href="#" target="_blank"><img src="https://media.giphy.com/media/vnTwvpYWlVRk8cVo1Y/giphy.gif" /></a>
 
 This site was made using Handlebars, Materialize, Node.js and Mongoose. The site also uses feautures such as google authorizationn and passport.js to handle authentication.
