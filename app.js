@@ -8,7 +8,7 @@ const methodOverride = require('method-override')
 const passport = require('passport')
 const session = require('express-session')
 const MongoStore = require('connect-mongo')(session)
-const connectDB = require('./config/db').default
+const connectDB = require('./config/db')
 
 
 
